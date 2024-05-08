@@ -1,0 +1,9 @@
+link (pid) - linkowanie procesów. Jeśli jeden z połączonych procesów zakończy działanie w sposób nienormalny, do połączonego procesu zostanie wysłany sygnał zakończenia. 
+
+process_flag(trap_exit, true) - przechwytywanie sygnału EXIT. Sygnał nie jest dalej propagowany. 
+
+spawn_link - spawnowanie i linkowanie procesu jednocześnie 
+
+handle_call/3 -> {stop, Reason, Reply, NewLoopData}
+handle_cast/2 -> {stop, Reason, NewLoopData}
+Po czymś takim jest wywoływana funkcja terminate(Reason, LoopData) -> logika... ok.
