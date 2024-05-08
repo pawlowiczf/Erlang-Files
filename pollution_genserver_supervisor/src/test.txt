@@ -1,0 +1,6 @@
+pollution_gen_server:add_station("Stacja 1", {1,1}).
+pollution_value_collector_gen_statem:start_link().
+pollution_value_collector_gen_statem:setStation("Stacja 1").
+pollution_value_collector_gen_statem:addValue( {{2023,2,3}, {1,2,3}}, "PM10", 20 ).
+pollution_value_collector_gen_statem:addValue( {{2023,2,3}, {1,2,3}}, "PM6", 20 ).
+pollution_value_collector_gen_statem:storeData().
