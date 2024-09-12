@@ -1,0 +1,18 @@
+%{
+  "exqlite-nif-2.15-aarch64-linux-gnu-0.22.0.tar.gz" => "sha256:1ef9c6d71b3148028a2ef69c0aa338b281ad115f7447d89c4f42c25842ba1984",
+  "exqlite-nif-2.15-aarch64-linux-gnu-0.22.0.tar.gz" => "sha256:1ef9c6d71b3148028a2ef69c0aa338b281ad115f7447d89c4f42c25842ba1984",
+  "exqlite-nif-2.15-aarch64-linux-musl-0.22.0.tar.gz" => "sha256:654de0b858ae4298456cd8c47a44583eb22d14f58d9c957b9f282dea754263d6",
+  "exqlite-nif-2.15-armv7l-linux-gnueabihf-0.22.0.tar.gz" => "sha256:17f59d6c3473ad7ae70e44f3f2e417f4a124bc867fb4e03d32d798851b8ff9a1",
+  "exqlite-nif-2.15-i686-linux-gnu-0.22.0.tar.gz" => "sha256:34f87ab5062cb8cecd39fa3a2f760e647a185d4ca3c161b274fe205c158b7821",
+  "exqlite-nif-2.15-powerpc64le-linux-gnu-0.22.0.tar.gz" => "sha256:09659a0067169dadebf1441f0491f820b8bb41a54d48873bb8f6e578570ec238",
+  "exqlite-nif-2.15-riscv64-linux-gnu-0.22.0.tar.gz" => "sha256:06eaefe1bc392ca6228650707aaba617af5d5284b9a134ab7b02604ec29e7343",
+  "exqlite-nif-2.15-riscv64-linux-gnu-0.22.0.tar.gz" => "sha256:06eaefe1bc392ca6228650707aaba617af5d5284b9a134ab7b02604ec29e7343",
+  "exqlite-nif-2.15-riscv64-linux-musl-0.22.0.tar.gz" => "sha256:b196a78ca8f5ff5a1860ccab23fe7d6a2d2dffdc2100ff3905ebe3275162117b",
+  "exqlite-nif-2.15-s390x-linux-gnu-0.22.0.tar.gz" => "sha256:a994c5602675acbc585c6d751267ca81011e4861c3b9a41d0a02353dafb0884e",
+  "exqlite-nif-2.15-x86_64-linux-gnu-0.22.0.tar.gz" => "sha256:4dc237fa136ca8e8f4989382a26cccb9ed702da5ce7df6e3267c79b872510620",
+  "exqlite-nif-2.15-x86_64-linux-gnu-0.22.0.tar.gz" => "sha256:4dc237fa136ca8e8f4989382a26cccb9ed702da5ce7df6e3267c79b872510620",
+  "exqlite-nif-2.15-x86_64-linux-musl-0.22.0.tar.gz" => "sha256:2c2b397e1550e1256f5263292ea5435c6f1a92676206ac6af50e549f20a11fa2",
+  "exqlite-nif-2.16-aarch64-apple-darwin-0.22.0.tar.gz" => "sha256:d6ec1ed8ad07ee2e765276a414390226daf23339f970685834331d7ee54afae2",
+  "exqlite-nif-2.16-x86_64-apple-darwin-0.22.0.tar.gz" => "sha256:1cab9f09ef6a801de969d0b7ff19df40e029520618943e26aa8944a3c78f0599",
+  "exqlite-nif-2.16-x86_64-windows-msvc-0.22.0.tar.gz" => "sha256:c1e9d4c4c8afc4946b20f41fdf52a27ea23175143005c882b001ef3ae6eca173",
+}
